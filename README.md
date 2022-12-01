@@ -1,7 +1,11 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="300"/>
+</div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/1ylOHgLDKw7eD8WgoB/giphy.gif" width="600" height="300"/>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/ozencdurur/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 ### :fire: My Stats :
