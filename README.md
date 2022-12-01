@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="80" height="80"/>&nbsp;
 </div>
 
 Here are some ideas to get you started:
