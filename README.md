@@ -23,12 +23,8 @@ I am a Game Developer!
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozencdurur&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### :hammer_and_wrench: Languages :
+### :hammer_and_wrench: Languages & Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="Csharp" alt="Csharp" width="40" height="40" />&nbsp;
-</div>
-
-### :hammer_and_wrench: Tools :
-<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40" />&nbsp;
- </div>
+</div>
