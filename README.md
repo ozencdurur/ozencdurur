@@ -18,7 +18,7 @@
 
 
 ### :man_technologist: About Me :
-I am a Game Developer!
+I am a Game Developer and Mobile Application Developer!
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozencdurur&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
