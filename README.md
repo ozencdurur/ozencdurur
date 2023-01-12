@@ -18,11 +18,6 @@
 ### :man_technologist: About Me :
 I am a Game Developer and Full Stack Web Developer!
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozencdurur&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozencdurur&show_icons=true&theme=radical)
-
 ### :hammer_and_wrench: Languages & Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="Csharp" alt="Csharp" width="40" height="40" />&nbsp;
