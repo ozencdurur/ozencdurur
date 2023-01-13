@@ -31,5 +31,10 @@ Hello, I'm Ozenc. I have been involved in software development since the days of
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40" />&nbsp;
   </div>
   
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ozencdurur&layout=compact&theme=transparent)
-
+  ###
+  
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ozencdurur&theme=transparent&layout=compact)
+  
+  ### 
+  
+  ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ozencdurur&show_icons=true&theme=transparent)
