@@ -11,7 +11,7 @@
 </div>
 
 ### :man_technologist: About Me :
-Hello, I'm Ozenc. I have been involved in software development since the days of the pandemic. I work on web development and game development. I love to improve myself and I think that development is a long road that will never end. So far, I have developed myself using platforms such as Youtube, Udemy, Patika.dev, BTK Akademi.
+Hello, I'm Ozenc. I have been involved in software development since the days of the pandemic. I love to improve myself and I think that development is a long road that will never end. So far, I have developed myself using platforms such as Youtube, Udemy, Patika.dev, BTK Akademi.
 
 ### :hammer_and_wrench: Languages & Tools :
 <div>
