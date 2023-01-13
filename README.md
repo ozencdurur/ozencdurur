@@ -31,6 +31,5 @@ Hello, I'm Ozenc. I have been involved in software development since the days of
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40" />&nbsp;
   
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=ozencdurur&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=ozencdurur&show_icons=true&theme=radical)
   
 </div>
