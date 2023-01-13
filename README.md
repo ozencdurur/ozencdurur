@@ -1,3 +1,4 @@
+<div>
 <h2 align="center">
   Hey there, I'm Ozenc!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -11,7 +12,9 @@
 </div>
 
 ### :man_technologist: About Me
-Hello, I'm Ozenc. I have been involved in software development since the days of the pandemic. I love to improve myself and I think that development is a long road that will never end. So far, I have developed myself using platforms such as Youtube, Udemy, Patika.dev, BTK Akademi.
+I have been involved in software development since the days of the pandemic. I love to improve myself and I think that development is a long road that will never end. So far, I have developed myself using platforms such as Youtube, Udemy, Patika.dev, BTK Akademi.
+
+<hr>
 
 ### :hammer_and_wrench: Languages & Tools
 <div>
@@ -34,7 +37,6 @@ Hello, I'm Ozenc. I have been involved in software development since the days of
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40" />&nbsp;
   </div>
-  
-  ###
-  
+  <hr>
+ 
   [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ozencdurur&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
