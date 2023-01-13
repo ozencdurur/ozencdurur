@@ -33,8 +33,4 @@ Hello, I'm Ozenc. I have been involved in software development since the days of
   
   ###
   
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ozencdurur&theme=transparent&layout=compact)
-  
-  ### 
-  
-  ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ozencdurur&show_icons=true&theme=transparent)
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ozencdurur&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
