@@ -39,4 +39,6 @@ I have been involved in software development since the days of the pandemic. I l
   </div>
   <hr>
  
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ozencdurur&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ozencdurur&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ozencdurur&show_icons=true&theme=radical)
