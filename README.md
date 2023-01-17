@@ -3,7 +3,7 @@
   Hey there, I'm Ozenc!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
-<h1 align="center">I'm a Software Developer!</h1>
+<h1 align="center">I'm a Full Stack Web Developer!</h1>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ozencdurur/">
@@ -34,8 +34,6 @@ I have been involved in software development since the days of the pandemic. I l
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40" />&nbsp;
-  <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40" />&nbsp;
   </div>
   <hr>
  
