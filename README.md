@@ -3,7 +3,7 @@
   Hey there, I'm Ozenc!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
-<h1 align="center">I'm a Game Developer!</h1>
+<h1 align="center">I'm a Frontend Developer!</h1>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ozencdurur/">
@@ -12,14 +12,16 @@
 </div>
 
 ### :man_technologist: About Me
-I have been involved in game development since the days of the pandemic. I love to improve myself and I think that development is a long road that will never end. So far, I have developed myself using platforms such as Youtube, Udemy, Patika.dev, BTK Akademi.
+I have been involved in frontend development since the days of the pandemic. I love to improve myself and I think that development is a long road that will never end. So far, I have developed myself using platforms such as Youtube, Udemy, Patika.dev, BTK Akademi.
 
 <hr>
 
 ### :hammer_and_wrench: Languages & Tools
 <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40" />&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html" alt="Html" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css" alt="Css" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" />&nbsp;
   </div>
   <hr>
  
