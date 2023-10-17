@@ -12,7 +12,7 @@
 </div>
 
 ### :man_technologist: About Me
-Hello. I have been working on software development for over three years. As a result of these studies, I published a mobile game (Apple Cutter) and a PC game on itch.io (The Basement). I developed a website for Frontier Cocktail Bar. I continue my studies and constantly improve myself.
+Hello. I have been working on web development for over three years. As a result of these studies I developed a website for Frontier Cocktail Bar. I continue my studies and constantly improve myself.
 
 <hr>
 
