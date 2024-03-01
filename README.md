@@ -12,7 +12,7 @@
 </div>
 
 ### :man_technologist: About Me
-Hello. I have been working on game development for over three years. As a result of these studies I developed a game is The Basement in itch.io. I continue my studies and constantly improve myself.
+Hello. I have been working on game development for over three years. As a result of these studies I published a game is The Basement in itch.io. I continue my studies and constantly improve myself.
 
 <hr>
 
