@@ -19,7 +19,7 @@ Hello. I have been working on game development for over three years. As a result
 ### :hammer_and_wrench: Languages & Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-plain.svg" title="Unity" alt="Unity" width="40" height="40" />&nbsp;
   </div>
   <hr>
  
